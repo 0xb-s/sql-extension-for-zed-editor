@@ -1,0 +1,7 @@
+[package]
+name = "sql-zed"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+zed_extension_api = "0.1.0"
